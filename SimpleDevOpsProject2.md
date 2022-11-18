@@ -36,7 +36,7 @@ Click Save and Apply
 
 ``` sh 
 
-Git URL - https://github.com/Abhishek08/node-js-sample.git
+Git URL - https://github.com/atif2580/node-js-sample.git
 
 WebHook Connection URL - http://IPADDRESS/github-webhook/ (push)
 
